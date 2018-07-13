@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: "http://internetcurrency.github.io"
-baseurl: 'icstore'
+url: "http://internetcurrency.github.io/icstore"
+baseurl: ''
 
 # variables
 name: Internet Currency
